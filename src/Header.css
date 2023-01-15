@@ -1,0 +1,19 @@
+/* *{margin: 0%;padding: 0;box-sizing: border-box;} */
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    border-bottom:1px solid #f9f9f9f9 ;
+    height: 60px;
+
+}
+.header_logo{
+    object-fit: contain;
+    height: 40px;
+}
+.header__icon{
+    padding: 2px;
+    
+}
